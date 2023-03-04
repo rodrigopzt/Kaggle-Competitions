@@ -1,0 +1,1 @@
+A repository for my Kaggle competitions projects (this file is still a draft).
