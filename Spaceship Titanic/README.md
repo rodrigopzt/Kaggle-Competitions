@@ -43,7 +43,7 @@ Passengers in cryosleep are confined to their cabins.
 
 ### Submissions
 
-Best submission: 0.80336 - LightGBM Model
+Best submission: 0.80453 - LightGBM Model
 
 My submissions on the competition so far
 
@@ -51,7 +51,8 @@ My submissions on the competition so far
 ```console
 fileName        date                 description                                      status    publicScore  privateScore  
 --------------  -------------------  -----------------------------------------------  --------  -----------  ------------
-predictions.csv  2023-03-04 16:59:48  LightGBM tuned, no scaler                       complete    0.80336
+predictions.csv  2023-03-04 23:09:03  LightGBM tuned with bayesian optimization       complete    0.80453
+predictions.csv  2023-03-04 16:59:48  LightGBM tuned                                  complete    0.80336
 ```
 
 ## Competition Link
